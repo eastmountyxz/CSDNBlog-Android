@@ -3,8 +3,7 @@
 
 
 
-参考文献：
-
+参考文献： <br />
 [[Android] 拍照、截图、保存并显示在ImageView控件中](https://blog.csdn.net/Eastmount/article/details/40381053) <br />
 [[Android] 使用Matrix矩阵类对图像进行缩放、旋转、对比度、亮度处理](https://blog.csdn.net/Eastmount/article/details/40457273) <br />
 [[Android] 触屏setOnTouchListener实现图片缩放、移动、绘制和添加水印](https://blog.csdn.net/Eastmount/article/details/40536247) <br />
